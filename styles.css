@@ -1,0 +1,21 @@
+body{ background-color: rgb(32, 3, 3);
+      color: white;
+    text-align: center;}
+
+h1{ background-color: white;
+    text-align: center;
+    color: goldenrod;
+    font-family: 'PT Serif', serif;
+    padding: 10px;}
+
+figcaption{  font-family: 'PT Serif', serif;
+              text-align: center;
+            color: darkcyan;}
+figure{display: inline-block;
+     text-align: center;
+     padding: 1em;
+     border-radius: 3px;
+    }
+figure:hover{ background-color: darkslategray;
+}
+figcaption:hover{ color: brown;}
